@@ -106,7 +106,12 @@
     }
   ],
 
-  "buffers" : [],
+  "buffers" : [
+    {
+      "uri" : "simpleSquare.bin",
+      "byteLength" : 60
+    }
+  ],
   "bufferViews" : [
     {
       "buffer" : 0,
