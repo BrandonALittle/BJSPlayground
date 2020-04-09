@@ -22,42 +22,6 @@
   
   "cameras" : [
         {
-            "name" : "camera_default",
-            "perspective" : {
-                "yfov" : 0.6911112070083618,
-                "zfar" : 1000,
-                "znear" : 0.10000000149011612
-            },
-            "type" : "perspective"
-        },
-        {
-            "name" : "camera_rt_front",
-            "perspective" : {
-                "yfov" : 0.6911112070083618,
-                "zfar" : 1000,
-                "znear" : 0.10000000149011612
-            },
-            "type" : "perspective"
-        },
-        {
-            "name" : "camera_rt_lateral",
-            "perspective" : {
-                "yfov" : 0.6911112070083618,
-                "zfar" : 1000,
-                "znear" : 0.10000000149011612
-            },
-            "type" : "perspective"
-        },
-        {
-            "name" : "camera_rt_medial",
-            "perspective" : {
-                "yfov" : 0.6911112070083618,
-                "zfar" : 1000,
-                "znear" : 0.10000000149011612
-            },
-            "type" : "perspective"
-        },
-        {
             "name" : "camera_rt_os_down",
             "perspective" : {
                 "yfov" : 0.6911112070083618,
@@ -68,15 +32,6 @@
         },
         {
             "name" : "camera_rt_os_up",
-            "perspective" : {
-                "yfov" : 0.6911112070083618,
-                "zfar" : 1000,
-                "znear" : 0.10000000149011612
-            },
-            "type" : "perspective"
-        },
-        {
-            "name" : "camera_rt_top_down",
             "perspective" : {
                 "yfov" : 0.6911112070083618,
                 "zfar" : 1000,
